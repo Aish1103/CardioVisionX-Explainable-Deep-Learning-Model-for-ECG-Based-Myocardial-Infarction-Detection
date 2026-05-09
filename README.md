@@ -1,4 +1,6 @@
-# CardioVisionX: Explainable Deep Learning Model for ECG-Based Myocardial Infarction Detection
+# CardioVisionX: Explainable Deep Learning Model for ECG-Based Myocardial Infarction Detection 
+Paper DOI: https://doi.org/10.1109/BECITHCON69222.2025.11504288 
+
 Once regarded as the reliable
  chronicle of a heartbeat, electrocardiograms all too frequently
  fail due to human error and inconsistent interpretation. In
